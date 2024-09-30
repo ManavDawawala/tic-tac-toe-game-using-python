@@ -1,5 +1,5 @@
 # "Take a Break" Notification system in Python 
-#This code is contributed by Rishabh Narayan
+#This code is contributed by Manav Dawawala
 
 from plyer import notification  #pip install plyer
 import time
